@@ -6,4 +6,7 @@
 
 ## TINKER CAD CIRCUIT DIAGRAM
 
+![fullwave](https://github.com/user-attachments/assets/4649f762-fec0-4158-8886-65a703989582)
+
+
 <img width="860" height="227" alt="image" src="https://github.com/user-attachments/assets/2cd08752-9469-424d-8283-a306c0ccac15" />
